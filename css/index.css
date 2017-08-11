@@ -1,0 +1,62 @@
+h3,
+p {
+    margin-bottom: 20px;
+}
+
+.quiz-preview {
+    margin-left: 20;
+}
+#frmregister {
+    width: 50%;
+}
+
+#frmregister.form-horizontal .controls {
+    margin-left: 0;
+}
+
+#frmregister input[type=text],
+#frmregister input[type=password] {
+    width: 270px;
+}
+
+#frmregister .fld-first_name,
+#frmregister .fld-family_name {
+    float: left;
+}
+
+#frmregister .fld-first_name input,
+#frmregister .fld-family_name input {
+    width: 120px;
+}
+
+#frmregister .fld-family_name {
+    margin-left: 20px;
+}
+
+#frmregister .fld-email {
+    clear: both;
+}
+
+#frmregister .form-actions {
+    padding: 0 !important;
+    border: 0;
+    background: none;
+}
+
+#frmregister .required_element_block {
+    display: none;
+}
+#disclaimer_accepted-label{
+    width: 350px;
+}
+#frmregister input[type=text] ,#frmregister input[type=password]
+{
+    width: width: 270px;
+    height: 28px;
+}
+.help-block
+{
+    font-size: 10px;
+    color:#b94a48;
+}
+
